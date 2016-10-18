@@ -7,3 +7,4 @@ Height: Quite Tall
 Hair:Short
 Hair Color: Brown
 Favorite Music: Cold Play?
+Car: Unknown

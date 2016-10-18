@@ -6,3 +6,4 @@ Kids:2
 Hair:Short
 Hair Color: Brown
 Favorite Music: Unknown?
+Car: Unknown
